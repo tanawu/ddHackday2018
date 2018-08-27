@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "Yahoo DD Hackday",
+	"description": "This extension is a skeleton of TW/HK DD Hackday",
+	"version": "1.0",
+	"browser_action": {
+		"default_icon": "YahooDDHackday.png",
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [
+		{
+			"matches": ["*://tw.search.yahoo.com/search*", "*://hk.search.yahoo.com/search*"],
+			"js": ["js/lib/jquery-3.3.1.min.js", "js/render.js"],
+			"css": ["css/render.css"]
+		}
+	],
+	"permissions": [
+		"activeTab",
+		"storage",
+		"tabs"
+	]
+}
