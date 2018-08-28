@@ -1,0 +1,984 @@
+{
+    "response": {
+        "rss": {
+            "@xmlns:media": "https://search.yahoo.com/mrss/",
+            "@version": 2,
+            "channel": {
+                "title": "《女兵日記》免費線上看 - LiTV",
+                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00123712",
+                "description": null,
+                "language": "zh-Hant-TW",
+                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
+                "pubDate": "2018/08/27",
+                "ttl": 720,
+                "image": {
+                    "title": "《女兵日記》免費線上看 - LiTV",
+                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00123712",
+                    "url": "https://cdnstatic.svc.litv.tv/35621-000000-228325.jpg"
+                },
+                "item": [
+                    {
+                        "title": "第32集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00127988",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:40",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00127988"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000032-236086-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000032-236086-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第31集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00127987",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "00",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00127987"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000031-236076.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000031-236076.jpg"
+                        }
+                    },
+                    {
+                        "title": "第30集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123743",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123743"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000030-235514-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000030-235514-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第29集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123742",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:40",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123742"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000029-235513-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000029-235513-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第28集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123741",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:40",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123741"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000028-235038-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000028-235038-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第27集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123740",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:40",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123740"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000027-234879-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000027-234879-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第26集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123739",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:40",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123739"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000026-234699-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000026-234699-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第25集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123738",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:40",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123738"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000025-234520-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000025-234520-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第24集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123737",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123737"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000024-233996-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000024-233996-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第23集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123736",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123736"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000023-233825-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000023-233825-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第22集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123735",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "48:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123735"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000022-233398-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000022-233398-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第21集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123734",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:35",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123734"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000021-233277-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000021-233277-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第20集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123733",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:36",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123733"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000020-233167-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000020-233167-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第19集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123732",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:36",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123732"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000019-232861-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000019-232861-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第18集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123731",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123731"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000018-232554-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000018-232554-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第17集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123730",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123730"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000017-232393-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000017-232393-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第16集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123729",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:37",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123729"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000016-232236-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000016-232236-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第15集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123728",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "47:36",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123728"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000015-232025-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000015-232025-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第14集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123727",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "43:36",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123727"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000014-231669-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000014-231669-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第13集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123726",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "43:36",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123726"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000013-231668-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000013-231668-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第12集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123725",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "43:36",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123725"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000012-231475-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000012-231475-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第11集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123724",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "44:21",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123724"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000011-231289-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000011-231289-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第10集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123723",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:01",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123723"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000010-231040-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000010-231040-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第9集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123722",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "50:41",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123722"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000009-230595-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000009-230595-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第8集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123721",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "50:21",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123721"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000008-230496-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000008-230496-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第7集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123720",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "51:41",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123720"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000007-230351-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000007-230351-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第6集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123719",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "50:21",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123719"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000006-228331.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000006-228331.jpg"
+                        }
+                    },
+                    {
+                        "title": "第5集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123718",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "50:21",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123718"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000005-230052-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000005-230052-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第4集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123717",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "50:21",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123717"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000004-229855-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000004-229855-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第3集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123716",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "46:05",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123716"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000003-229619-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000003-229619-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第2集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123715",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "56:21",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123715"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000002-229600-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000002-229600-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第1集",
+                        "description": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123714",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "56:24",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00123714"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000001-229406-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "女兵熱潮來勢洶洶，由新兵日記製作團隊全力打造，劉香慈、小嫻（黃瑜嫻）、羅平、楊晴等實力派演員領銜主演，7/12 起，每週一到週五 晚上十點更新。為什麼女孩們會選擇入伍當兵？其實，每個女兵背後都有一個故事和她們追求的夢，本劇將以這些女兵從軍的背後故事和夢想，串連出一段段笑淚交織的動容故事。"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35621-000001-229406-S.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
