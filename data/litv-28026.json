@@ -1,144 +1,49 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《精靈守護者》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00092175",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《精靈守護者》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00092175",
-                    "url": "https://cdnstatic.svc.litv.tv/28026-000000-166388.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第4集",
-                        "description": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092180",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "55:13",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092180"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000004-167623.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000004-167623.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092179",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "57:40",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092179"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000003-167622.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000003-167622.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092178",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "55:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092178"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000002-167621.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000002-167621.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092177",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:12:17",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092177"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000001-166386.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28026-000001-166386.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "28026",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:3971ac11-8621-4c18-83c7-0b22b30d7bd9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092180"
+    },
+    {
+      "@id": "_:afd05c9f-b190-4689-adb5-09825d9f51f1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092179"
+    },
+    {
+      "@id": "_:d71213e1-cc47-41ef-88bb-0fc1fe7865f1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092178"
+    },
+    {
+      "@id": "_:5c264c6e-d84c-4a39-abe7-ca8a0cef6eb1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092177"
     }
+  ],
+  "description": "這是個精靈與人類同時存在的世界。擅長使用短槍的女保鑣帕爾莎（綾瀨遙），偶然救了落河的新悠果國二王子查穆。因為查穆的身上寄宿了真相不明的「水精靈之卵」，他的父王害怕會損及皇家威信，竟派人暗殺自己的兒子。查穆的母親二王妃便拜託帕爾莎擔任查穆的保鑣，帶他逃離皇宮…",
+  "image": {
+    "@id": "_:92feebfb-6afe-4b0d-8369-777ab086c9d9",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/28026-000000-166388.jpg"
+    }
+  },
+  "label": "《精靈守護者》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:3548f7fc-93e1-4f07-ba26-c45bc0b3c5d8",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_28026.rss"
+  }
 }
