@@ -1,1224 +1,301 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《金光御九界之東皇戰影》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00124036",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《金光御九界之東皇戰影》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00124036",
-                    "url": "https://cdnstatic.svc.litv.tv/35694-000000-234025.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第40集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124692",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:19:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124692"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000040-235959-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000040-235959-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第39集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124691",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:17:03",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124691"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000039-235958-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000039-235958-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第38集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124690",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:12:31",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124690"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000038-235957-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000038-235957-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第37集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124689",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:16:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124689"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000037-235956-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000037-235956-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第36集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124688",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:14:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124688"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000036-235955-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000036-235955-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124687",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:29:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124687"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000035-235954-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000035-235954-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124686",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124686"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000034-235953-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000034-235953-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124685",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:13:59",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124685"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000033-235952-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000033-235952-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124684",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:20:33",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124684"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000032-235951-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000032-235951-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124683",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:23:03",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124683"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000031-235950-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000031-235950-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124682",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124682"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000030-235949-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000030-235949-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124681",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:12:21",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124681"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000029-235948-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000029-235948-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124680",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:23",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124680"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000028-235947-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000028-235947-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124679",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:34:17",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124679"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000027-235946-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000027-235946-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124678",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:20:27",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124678"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000026-235945-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000026-235945-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124677",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:15:23",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124677"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000025-235944-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000025-235944-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124676",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:21:35",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124676"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000024-235943-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000024-235943-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124675",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:15:07",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124675"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000023-235942-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000023-235942-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124674",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:21:01",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124674"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000022-235941-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000022-235941-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124673",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:19:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124673"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000021-235940-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000021-235940-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124672",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:22:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124672"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000020-235939-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000020-235939-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124671",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:26:23",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124671"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000019-235938-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000019-235938-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124670",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:17:58",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124670"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000018-235937-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000018-235937-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124669",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:16:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124669"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000017-235936-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000017-235936-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124668",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:16:34",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124668"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000016-235935-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000016-235935-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124667",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:17:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124667"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000015-235934-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000015-235934-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124666",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:13:21",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124666"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000014-235933-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000014-235933-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124665",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:14:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124665"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000013-235932-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000013-235932-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124664",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:43",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124664"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000012-235931-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000012-235931-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124663",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:13:35",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124663"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000011-235930-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000011-235930-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124662",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:16:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124662"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000010-235929-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000010-235929-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124661",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:16:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124661"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000009-235928-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000009-235928-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124660",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:25:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124660"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000008-235927-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000008-235927-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124659",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:30:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124659"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000007-235926-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000007-235926-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124658",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:18:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124658"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000006-235925-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000006-235925-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124657",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:15:45",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124657"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000005-235924-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000005-235924-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124656",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:15:32",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124656"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000004-235923-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000004-235923-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124655",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:19:21",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124655"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000003-235922-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000003-235922-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124654",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:23:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124654"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000002-235921-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000002-235921-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124653",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:15:31",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124653"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000001-235920-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35694-000001-235920-S.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "35694",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:458a11e1-d793-4de2-a01b-18265bb6643f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第40集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124692"
+    },
+    {
+      "@id": "_:e6169c18-8ac5-46bb-8ff3-b7bd601cba3e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第39集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124691"
+    },
+    {
+      "@id": "_:face43a0-7b21-4679-bbfc-505507538038",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第38集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124690"
+    },
+    {
+      "@id": "_:9b047cd8-1560-42c1-8037-217c33e1577d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第37集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124689"
+    },
+    {
+      "@id": "_:ddeb7fe0-8e78-436b-af02-c9ebec5c9483",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第36集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124688"
+    },
+    {
+      "@id": "_:d0889888-f2f2-45ea-be72-31e0e260aaf7",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第35集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124687"
+    },
+    {
+      "@id": "_:41479486-76d0-47b3-a25f-0da8a0127bf0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第34集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124686"
+    },
+    {
+      "@id": "_:ea15aa6c-4fc7-49bf-956b-0e2be13f3d79",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第33集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124685"
+    },
+    {
+      "@id": "_:63eb1c92-fdb2-4c5e-8ffe-b59e96e15ad2",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第32集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124684"
+    },
+    {
+      "@id": "_:449ce27a-0265-49ec-9aa8-d5657207decc",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第31集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124683"
+    },
+    {
+      "@id": "_:39ee26f7-ffd9-4f87-8627-d2d5f18cd885",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第30集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124682"
+    },
+    {
+      "@id": "_:4496933b-d170-4b00-84ae-1975829973c2",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第29集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124681"
+    },
+    {
+      "@id": "_:f9967f6c-d5c1-4fdc-bcff-c344aabd103a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第28集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124680"
+    },
+    {
+      "@id": "_:54e3c6f5-4791-4145-889c-cb7705779d2a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第27集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124679"
+    },
+    {
+      "@id": "_:845d5664-b417-44d6-9151-a4e3e34e547e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第26集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124678"
+    },
+    {
+      "@id": "_:a7d1edf1-22ac-462f-88c2-76cb18a3fd72",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第25集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124677"
+    },
+    {
+      "@id": "_:84b0a743-bccd-4e73-9f48-84fdadd383b7",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第24集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124676"
+    },
+    {
+      "@id": "_:2f415af5-8d54-4184-9219-c92ceadb5e0d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第23集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124675"
+    },
+    {
+      "@id": "_:f7f0c143-34e5-436b-836e-399755258589",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第22集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124674"
+    },
+    {
+      "@id": "_:cdbb6c7e-6ef3-48a2-9c72-9a661a62f0ea",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第21集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124673"
+    },
+    {
+      "@id": "_:a260e211-b9a4-4a20-8131-5874fd7a3786",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第20集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124672"
+    },
+    {
+      "@id": "_:c683dd0d-2769-4b69-a8b7-9b436cb24d89",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第19集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124671"
+    },
+    {
+      "@id": "_:1a973cb8-9f60-4778-ae66-c153c92840aa",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第18集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124670"
+    },
+    {
+      "@id": "_:0f9a5dab-31d9-4fb5-b9c3-5efef46d16f0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第17集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124669"
+    },
+    {
+      "@id": "_:f3566cfe-8d10-4cae-99f5-056a52c1cfcb",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第16集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124668"
+    },
+    {
+      "@id": "_:eef1d9f5-0cd5-45c7-96e5-4ed1cf5b57ce",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第15集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124667"
+    },
+    {
+      "@id": "_:965cb744-2ca3-4599-bcf1-7f548ce5686a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第14集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124666"
+    },
+    {
+      "@id": "_:3486052f-cc64-4485-b6e7-3bdb869dc760",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第13集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124665"
+    },
+    {
+      "@id": "_:72e8e3f4-7c8f-404f-8a08-2b6cdd20f174",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第12集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124664"
+    },
+    {
+      "@id": "_:f2d2c3bb-9c54-403e-8485-ebda8b5770d1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第11集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124663"
+    },
+    {
+      "@id": "_:c2d86d59-253f-4c03-a157-772318d22d4c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第10集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124662"
+    },
+    {
+      "@id": "_:d61aca59-2601-46b5-9b33-dcae80271a84",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第9集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124661"
+    },
+    {
+      "@id": "_:bbbef271-8425-4873-aaf4-3cecaf2758b6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124660"
+    },
+    {
+      "@id": "_:8ad441c0-16a7-4cca-8bad-42b3cc6d22aa",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124659"
+    },
+    {
+      "@id": "_:6806298e-04e1-4506-b6cb-1812473810bd",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124658"
+    },
+    {
+      "@id": "_:de6ad547-5922-468e-ad2a-dab17768b50a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124657"
+    },
+    {
+      "@id": "_:1e22cb88-8159-4077-a86d-765cda6cff76",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124656"
+    },
+    {
+      "@id": "_:d5349e54-e92c-4bb4-a52c-6d253ee75aad",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124655"
+    },
+    {
+      "@id": "_:91ad9da5-e6cd-4481-9f70-9de0de5dba68",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124654"
+    },
+    {
+      "@id": "_:5211a578-53ff-4e70-a653-9db799dc837a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124653"
     }
+  ],
+  "description": "元邪皇再度現世，六絕禁地接連被破，九界災劫逼在眉梢，俏如來眾人該如何阻止千年之魔的腳步，挽救人世？鱗王昏迷不醒，掀起了皇權變動，這將會帶領鱗族走向何種未來，於此同時，在東瀛，劍無極、西劍流、面對複仇的殘忍聯盟，亦將各自恩怨情仇中，開啟新的篇章…",
+  "image": {
+    "@id": "_:551c4786-e0c5-4530-a0f8-3e0a32d9c822",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/35694-000000-234025.jpg"
+    }
+  },
+  "label": "《金光御九界之東皇戰影》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:7a1773ea-d005-478c-a718-dd181e4f97b2",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_35694.rss"
+  }
 }
