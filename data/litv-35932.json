@@ -1,264 +1,77 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《你的管家》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00125332",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《你的管家》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00125332",
-                    "url": "https://cdnstatic.svc.litv.tv/35932-000000-231839.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第8集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125344",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125344"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000008-235604-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000008-235604-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125343",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:42",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125343"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000007-235602-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000007-235602-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125342",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:51",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125342"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000006-234883-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000006-234883-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125341",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:43",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125341"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000005-234881-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000005-234881-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125340",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:40",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125340"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000004-233685-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000004-233685-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125339",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:00:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125339"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000003-233684-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000003-233684-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125338",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:00:01",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125338"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000002-232294-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000002-232294-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125337",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:00:04",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125337"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000001-232293-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35932-000001-232293-S.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "35932",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:d6a420d0-ca7c-469f-b833-49916a69bbdf",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125344"
+    },
+    {
+      "@id": "_:9bf555a3-5e14-4f30-90a4-e9a3b1d9afb3",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125343"
+    },
+    {
+      "@id": "_:204f02dd-5e52-4a37-bec7-74022f82bc9f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125342"
+    },
+    {
+      "@id": "_:943e7987-7ac5-48f5-9750-5c3fd4a1101d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125341"
+    },
+    {
+      "@id": "_:f36503aa-ca9c-4002-86ef-167c61659e61",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125340"
+    },
+    {
+      "@id": "_:2e6dc02e-0016-4e4c-8819-229665e7da87",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125339"
+    },
+    {
+      "@id": "_:997b9275-28a7-4ab5-9823-d6254e8429f4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125338"
+    },
+    {
+      "@id": "_:678e69e1-bd15-48e8-8fb1-897e456c70fb",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125337"
     }
+  ],
+  "description": "外表俊帥的金知雲是一位只要在家中繞一圈便能看出這家主人的需求、進而提供最佳服務的完美管家。林多英則是繼承了爸爸的房子和債務的「有房子的窮人」。生活和家中都一團混亂的多英，在遇到金知雲之後，會產生什麼樣微妙的變化呢？",
+  "image": {
+    "@id": "_:d05c443d-d89c-457d-a400-9f0886f27279",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/35932-000000-231839.jpg"
+    }
+  },
+  "label": "《你的管家》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:175e153f-43ba-410e-bc3b-84b036250742",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_35932.rss"
+  }
 }
