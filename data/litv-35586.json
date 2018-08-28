@@ -1,1194 +1,294 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《大時代》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00123434",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《大時代》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00123434",
-                    "url": "https://cdnstatic.svc.litv.tv/35586-000000-227989.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第39集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123546",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:39:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123546"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000039-228028.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000039-228028.jpg"
-                        }
-                    },
-                    {
-                        "title": "第38集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123545",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:49:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123545"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000038-236544-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000038-236544-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第37集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123544",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:28",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123544"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000037-236253-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000037-236253-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第36集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123543",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:49",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123543"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000036-235825-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000036-235825-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123542",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123542"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000035-235687-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000035-235687-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123541",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:40:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123541"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000034-235686-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000034-235686-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123540",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:49",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123540"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000033-235192-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000033-235192-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123539",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123539"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000032-235193-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000032-235193-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123538",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:26",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123538"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000031-234817-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000031-234817-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123537",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:51:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123537"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000030-234666-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000030-234666-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123536",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:39:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123536"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000029-234508-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000029-234508-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123535",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:34",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123535"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000028-233939-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000028-233939-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123534",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:49:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123534"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000027-233585-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000027-233585-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123533",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:33",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123533"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000026-233360-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000026-233360-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123532",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123532"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000025-233206-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000025-233206-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123531",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:38:14",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123531"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000024-233099-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000024-233099-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123530",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:34",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123530"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000023-232737-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000023-232737-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123529",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:34",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123529"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000022-232494-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000022-232494-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123528",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:53:13",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123528"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000021-232355-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000021-232355-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123527",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123527"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000020-232129-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000020-232129-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123526",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:39:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123526"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000019-231835-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000019-231835-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123525",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123525"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000018-231628-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000018-231628-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123524",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:53:49",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123524"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000017-231537-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000017-231537-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123523",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123523"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000016-231335-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000016-231335-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123522",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:55:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123522"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000015-231100-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000015-231100-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123521",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:39:19",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123521"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000014-230836-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000014-230836-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123520",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123520"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000013-230573-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000013-230573-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123519",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:32",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123519"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000012-230370-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000012-230370-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123518",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:43",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123518"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000011-230214-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000011-230214-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123517",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:53:21",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123517"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000010-230108-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000010-230108-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123516",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:39:38",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123516"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000009-229907-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000009-229907-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123515",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:53:32",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123515"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000008-229720-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000008-229720-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123514",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:55:04",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123514"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000007-229597-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000007-229597-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123513",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123513"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000006-229438-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000006-229438-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123512",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:54:58",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123512"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000005-229313-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000005-229313-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123511",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:40:01",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123511"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000004-229057-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000004-229057-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123510",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:50:37",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123510"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000003-228904-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000003-228904-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123509",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:51:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123509"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000002-228652-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000002-228652-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123508",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:29:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00123508"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000001-228651-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35586-000001-228651-S.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "35586",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:4227b75a-203d-4c3c-b06a-8488e32dd9b0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第39集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123546"
+    },
+    {
+      "@id": "_:d3f402ee-f935-44f9-946d-91472a44b5c3",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第38集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123545"
+    },
+    {
+      "@id": "_:3f4feac3-8b66-4d63-98d4-1a33f7606429",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第37集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123544"
+    },
+    {
+      "@id": "_:dc823bc9-5875-4fa4-bbde-2bcd2df2fe39",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第36集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123543"
+    },
+    {
+      "@id": "_:6fdf4a1d-485c-4ab5-b8a7-3cd223aeccf9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第35集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123542"
+    },
+    {
+      "@id": "_:448d73f3-5196-408b-8603-f01c0c51439a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第34集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123541"
+    },
+    {
+      "@id": "_:a688edec-926e-469d-b23a-1c0a4a604d12",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第33集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123540"
+    },
+    {
+      "@id": "_:96bd2470-702d-4058-afac-9784bc7db1c7",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第32集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123539"
+    },
+    {
+      "@id": "_:ec3b0395-3de7-4760-8b3b-b7aa4a0a4c66",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第31集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123538"
+    },
+    {
+      "@id": "_:a2352940-1cc6-42ef-8c4d-8fef363b711b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第30集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123537"
+    },
+    {
+      "@id": "_:33c580a8-354c-493e-aa9c-2979aa7621ca",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第29集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123536"
+    },
+    {
+      "@id": "_:f98e9de9-b4fb-407d-ab51-78ecabd93eb4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第28集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123535"
+    },
+    {
+      "@id": "_:2e51dd17-ac71-4f32-8db3-eac2853ec138",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第27集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123534"
+    },
+    {
+      "@id": "_:48e90e6c-ddab-473b-9eac-1fd2de65ef0f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第26集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123533"
+    },
+    {
+      "@id": "_:5d1b7074-d5af-461d-a477-e21d1285a560",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第25集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123532"
+    },
+    {
+      "@id": "_:620ba3fb-71bf-4177-9bc5-f4863a1b766c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第24集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123531"
+    },
+    {
+      "@id": "_:4f0e607b-9c69-4fcb-9b3b-3918d5bfbb75",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第23集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123530"
+    },
+    {
+      "@id": "_:eda7baf4-b3af-41b0-b46a-f206727050f2",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第22集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123529"
+    },
+    {
+      "@id": "_:d787a9c4-fdaf-46c7-bbee-1b8eb056c737",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第21集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123528"
+    },
+    {
+      "@id": "_:1edae8ff-a6d5-49bf-8338-ff412f962ff4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第20集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123527"
+    },
+    {
+      "@id": "_:48964c9b-9bc6-48cb-9b25-a0e481795965",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第19集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123526"
+    },
+    {
+      "@id": "_:44e7fd7e-29eb-4e01-9ca9-b6ae2e1f798e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第18集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123525"
+    },
+    {
+      "@id": "_:32d2c25a-a37a-49f6-8213-990e382ab7ba",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第17集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123524"
+    },
+    {
+      "@id": "_:513ada38-c2e6-465d-a2c9-f5c87a015509",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第16集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123523"
+    },
+    {
+      "@id": "_:196a9490-c980-43aa-82c8-d5740ddd71f5",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第15集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123522"
+    },
+    {
+      "@id": "_:c58ac427-ad07-43f7-af7c-dd46f24dfe6b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第14集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123521"
+    },
+    {
+      "@id": "_:91decab6-e53d-4080-851b-b6909eab1398",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第13集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123520"
+    },
+    {
+      "@id": "_:ef4f4143-d003-4e88-83f7-2efd7fad75d1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第12集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123519"
+    },
+    {
+      "@id": "_:7d41dc61-ca6f-4749-a3a2-0a011491bd01",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第11集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123518"
+    },
+    {
+      "@id": "_:115385ad-14e8-4184-ac2d-f4bbe1b6dd31",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第10集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123517"
+    },
+    {
+      "@id": "_:a680580b-a735-472b-b057-738a1bf7b4e0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第9集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123516"
+    },
+    {
+      "@id": "_:269008a1-8a21-4a58-bdad-2fcb97207e5b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123515"
+    },
+    {
+      "@id": "_:3bd21f47-5c6b-415e-a47a-ac3461ddbe48",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123514"
+    },
+    {
+      "@id": "_:468cddd0-257c-4cd1-a80e-55c3acdab816",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123513"
+    },
+    {
+      "@id": "_:0e992967-219d-4527-b57f-d022cbab285c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123512"
+    },
+    {
+      "@id": "_:65195df8-cfa3-47fe-846e-50d28c78f0d9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123511"
+    },
+    {
+      "@id": "_:0d804658-0dd2-4288-8248-47aa2bbbe6c4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123510"
+    },
+    {
+      "@id": "_:1f0e12d8-37d3-4340-a627-7c654e13a1b1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123509"
+    },
+    {
+      "@id": "_:27afb6c5-8228-4a22-a688-fa09a9601947",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00123508"
     }
+  ],
+  "description": "跨越1400年的時空演繹三個不同世代的女性，以唐朝女強人武則天轉世至現代繼續爭奪當故事主軸，描述1950年代後期台灣紡織業的興衰起伏。一個孝順的養女，一個嬌蠻的歌女，一個愛做夢的桌頭，還有外地來的熱血青年，誰將是女王輪迴轉世的正主？大時代熱烈展開，大時代兒女的精彩人生也即將啟動！",
+  "image": {
+    "@id": "_:ad69fe31-b529-47a1-8d67-0e2b462e884a",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/35586-000000-227989.jpg"
+    }
+  },
+  "label": "《大時代》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:946671d1-1267-42e3-9841-834411294a73",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_35586.rss"
+  }
 }
