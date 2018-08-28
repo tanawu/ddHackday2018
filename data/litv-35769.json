@@ -1,0 +1,1164 @@
+{
+    "response": {
+        "rss": {
+            "@xmlns:media": "https://search.yahoo.com/mrss/",
+            "@version": 2,
+            "channel": {
+                "title": "《待嫁老爸》免費線上看 - LiTV",
+                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00124459",
+                "description": null,
+                "language": "zh-Hant-TW",
+                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
+                "pubDate": "2018/08/27",
+                "ttl": 720,
+                "image": {
+                    "title": "《待嫁老爸》免費線上看 - LiTV",
+                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00124459",
+                    "url": "https://cdnstatic.svc.litv.tv/35769-000000-231984.jpg"
+                },
+                "item": [
+                    {
+                        "title": "第38集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125475",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125475"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000038-232168-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000038-232168-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第37集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125474",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125474"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000037-232167-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000037-232167-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第36集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125473",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125473"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000036-232166-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000036-232166-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第35集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125472",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125472"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000035-232165-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000035-232165-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第34集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125471",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125471"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000034-232164-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000034-232164-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第33集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125470",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125470"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000033-232163-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000033-232163-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第32集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125469",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125469"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000032-232162-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000032-232162-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第31集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125468",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125468"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000031-232161-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000031-232161-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第30集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125467",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125467"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000030-232160-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000030-232160-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第29集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125466",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125466"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000029-232159-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000029-232159-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第28集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125465",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125465"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000028-232158-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000028-232158-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第27集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125464",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125464"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000027-232157-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000027-232157-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第26集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125463",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125463"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000026-232156-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000026-232156-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第25集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125462",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125462"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000025-232155-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000025-232155-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第24集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125461",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125461"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000024-232154-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000024-232154-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第23集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125460",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125460"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000023-232169-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000023-232169-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第22集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125459",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125459"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000022-232152-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000022-232152-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第21集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125458",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125458"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000021-232151-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000021-232151-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第20集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125457",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125457"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000020-232150-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000020-232150-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第19集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125456",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125456"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000019-232149-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000019-232149-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第18集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125455",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125455"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000018-232148-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000018-232148-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第17集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125454",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125454"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000017-232147-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000017-232147-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第16集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125453",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125453"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000016-232146-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000016-232146-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第15集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125452",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125452"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000015-232145-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000015-232145-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第14集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125451",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125451"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000014-232144-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000014-232144-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第13集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125450",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125450"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000013-232143-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000013-232143-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第12集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125449",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125449"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000012-232142-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000012-232142-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第11集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125448",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125448"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000011-232141-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000011-232141-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第10集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125447",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125447"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000010-232140-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000010-232140-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第9集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125446",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125446"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000009-232139-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000009-232139-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第8集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125445",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125445"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000008-232138-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000008-232138-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第7集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125444",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125444"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000007-232137-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000007-232137-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第6集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125443",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125443"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000006-232136-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000006-232136-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第5集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125442",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125442"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000005-232135-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000005-232135-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第4集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125441",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125441"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000004-232134-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000004-232134-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第3集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125440",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125440"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000003-232133-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000003-232133-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第2集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125439",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125439"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000002-232132-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000002-232132-S.jpg"
+                        }
+                    },
+                    {
+                        "title": "第1集",
+                        "description": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......",
+                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125438",
+                        "pubDate": "2018/08/27",
+                        "video_duration": "45:02",
+                        "guid": {
+                            "@isPermaLink": false,
+                            "#text": "VOD00125438"
+                        },
+                        "media:content": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@type": "image/jpeg",
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000001-232131-S.jpg"
+                        },
+                        "media:text": {
+                            "@type": "html",
+                            "#text": "牙醫周東風離異多年，獨自撫養女兒黛黛。黛黛不想讓父親孤身一人，希望撮合雜誌社女編輯蘇簡和爸爸。卻沒想到這時候黛黛的親媽程春紅從海外歸國，使周東風和蘇簡的生活掀起波瀾。同時，蘇簡的前男友黃凱迪對蘇簡舊情難捨......"
+                        },
+                        "media:credit": {
+                            "@role": "publishing company",
+                            "#text": "LiTV 線上影視"
+                        },
+                        "media:thumbnail": {
+                            "@height": 122,
+                            "@width": 216,
+                            "@url": "https://cdnstatic.svc.litv.tv/35769-000001-232131-S.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
