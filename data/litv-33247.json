@@ -1,1344 +1,329 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《外科風雲》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00104921",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《外科風雲》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00104921",
-                    "url": "https://cdnstatic.svc.litv.tv/33247-000000-195823.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第44集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104965",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104965"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000044-199747-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000044-199747-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第43集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104964",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:08",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104964"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000043-199746-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000043-199746-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第42集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104963",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:07",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104963"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000042-199745-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000042-199745-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第41集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104962",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104962"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000041-199744-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000041-199744-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第40集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104961",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104961"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000040-199742-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000040-199742-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第39集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104960",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104960"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000039-199741-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000039-199741-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第38集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104959",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:59",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104959"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000038-199739-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000038-199739-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第37集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104958",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104958"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000037-199738-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000037-199738-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第36集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104957",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:51",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104957"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000036-199737-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000036-199737-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104956",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:32",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104956"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000035-199735-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000035-199735-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104955",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104955"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000034-199734-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000034-199734-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104954",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104954"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000033-199733-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000033-199733-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104953",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:47",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104953"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000032-199731-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000032-199731-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104952",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104952"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000031-199730-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000031-199730-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104951",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:04",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104951"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000030-199729-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000030-199729-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104950",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:07",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104950"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000029-199727-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000029-199727-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104949",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104949"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000028-199726-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000028-199726-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104948",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104948"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000027-199725-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000027-199725-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104947",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104947"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000026-199723-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000026-199723-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104946",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104946"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000025-199722-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000025-199722-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104945",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104945"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000024-199721-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000024-199721-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104944",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:56",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104944"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000023-199720-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000023-199720-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104943",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104943"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000022-199719-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000022-199719-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104942",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:08",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104942"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000021-199718-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000021-199718-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104941",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104941"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000020-199717-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000020-199717-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104940",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104940"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000019-199716-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000019-199716-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104939",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:01",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104939"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000018-199715-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000018-199715-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104938",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:03",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104938"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000017-199714-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000017-199714-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104937",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104937"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000016-199712-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000016-199712-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104936",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104936"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000015-199711-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000015-199711-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104935",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104935"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000014-199709-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000014-199709-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104934",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104934"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000013-199708-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000013-199708-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104933",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104933"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000012-199707-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000012-199707-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104932",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104932"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000011-199706-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000011-199706-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104931",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104931"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000010-199705-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000010-199705-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104930",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:56",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104930"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000009-199704-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000009-199704-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104929",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:56",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104929"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000008-199703-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000008-199703-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104928",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:03",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104928"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000007-199702-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000007-199702-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104927",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104927"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000006-199701-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000006-199701-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104926",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104926"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000005-199700-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000005-199700-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104925",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104925"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000004-199699-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000004-199699-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104924",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104924"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000003-199698-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000003-199698-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104923",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104923"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000002-199697-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000002-199697-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104922",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "43:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00104922"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000001-199696-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/33247-000001-199696-S.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "33247",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:7ecf4226-c40e-424e-87cf-0322dc521e96",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第44集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104965"
+    },
+    {
+      "@id": "_:92a1040b-b9f9-4e4d-8bcf-9e05c8cac382",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第43集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104964"
+    },
+    {
+      "@id": "_:5e8980dc-5edd-479a-9ccb-05de85e5969c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第42集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104963"
+    },
+    {
+      "@id": "_:916a0caf-24ea-4f3e-a50e-368bf73b4afd",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第41集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104962"
+    },
+    {
+      "@id": "_:c0feb34a-38af-43f4-97fe-e5cd1346c2b4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第40集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104961"
+    },
+    {
+      "@id": "_:ef59ad1a-8e67-4296-9a42-351cf87176c4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第39集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104960"
+    },
+    {
+      "@id": "_:2b4de5a5-29f3-4c35-9765-006ccca4573c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第38集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104959"
+    },
+    {
+      "@id": "_:41fca245-08f4-4257-9d03-8add7eb0c06b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第37集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104958"
+    },
+    {
+      "@id": "_:28711584-5d56-4236-bb4c-cf54513360f4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第36集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104957"
+    },
+    {
+      "@id": "_:84c4de41-9e2b-4f80-b716-1a316c19a181",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第35集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104956"
+    },
+    {
+      "@id": "_:496e7bd4-8d74-43bc-9d5f-b75e37392df1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第34集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104955"
+    },
+    {
+      "@id": "_:95f44cb9-d5f5-49ff-a496-4344d2cad8dc",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第33集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104954"
+    },
+    {
+      "@id": "_:b687ad01-90e6-4b20-bde8-4c6b51b8c08a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第32集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104953"
+    },
+    {
+      "@id": "_:7f59ef86-a6d4-4eef-84b3-9b20cb2241ff",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第31集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104952"
+    },
+    {
+      "@id": "_:2713641e-d27d-4085-8b85-d5d9919c5cfe",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第30集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104951"
+    },
+    {
+      "@id": "_:0a5a4460-28c6-4f6f-ba17-91e18efc180f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第29集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104950"
+    },
+    {
+      "@id": "_:035d8e96-59c4-4c7f-a21f-74198c717e89",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第28集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104949"
+    },
+    {
+      "@id": "_:1c790684-b5f1-40cc-9956-1ef3722e67ff",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第27集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104948"
+    },
+    {
+      "@id": "_:c86ec7c1-330e-4331-882b-8ebd092aa055",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第26集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104947"
+    },
+    {
+      "@id": "_:b7ccea9e-f5e8-45ef-8e61-13545905a5dd",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第25集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104946"
+    },
+    {
+      "@id": "_:899bdfbc-8e72-4424-be41-d1bbafdec1df",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第24集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104945"
+    },
+    {
+      "@id": "_:5aa498d0-2e71-4720-ba66-6bd87b30573f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第23集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104944"
+    },
+    {
+      "@id": "_:c17582b5-62e5-4e41-bb4f-059ba439e3b4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第22集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104943"
+    },
+    {
+      "@id": "_:442e72a4-6487-4ce6-819c-af8f5a0e576e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第21集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104942"
+    },
+    {
+      "@id": "_:0ee346ab-5773-444e-9f1b-4ecd660912df",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第20集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104941"
+    },
+    {
+      "@id": "_:d9eeffee-b4db-41e8-9b4a-cdaf28066dd0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第19集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104940"
+    },
+    {
+      "@id": "_:26151041-2be4-46a0-a9d4-23eea2d82308",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第18集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104939"
+    },
+    {
+      "@id": "_:a5ac4d8b-ac0a-4119-9433-7c11ca0bbd06",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第17集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104938"
+    },
+    {
+      "@id": "_:9106a212-042d-4857-9fcc-9de545bf63a4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第16集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104937"
+    },
+    {
+      "@id": "_:05393d3f-08c0-4db7-9d4e-a70cddfcd9aa",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第15集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104936"
+    },
+    {
+      "@id": "_:d41e9a80-23ea-4fcb-8d97-bd9b37a60320",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第14集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104935"
+    },
+    {
+      "@id": "_:c9c03a26-9a15-486e-9a2a-4717bee51b04",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第13集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104934"
+    },
+    {
+      "@id": "_:f44743cf-86a0-4e22-8edd-10a824101988",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第12集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104933"
+    },
+    {
+      "@id": "_:a8b77f78-0977-46dd-a7a4-4876017b11c9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第11集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104932"
+    },
+    {
+      "@id": "_:0aca0455-15ec-4734-ab52-59838fee9c53",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第10集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104931"
+    },
+    {
+      "@id": "_:a7977bfc-4e83-40c0-8561-7629ed4c7b2c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第9集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104930"
+    },
+    {
+      "@id": "_:2f9359cb-e8ef-410c-8673-e527a366e757",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104929"
+    },
+    {
+      "@id": "_:bdbd52e3-a0ff-4381-b44d-46ed68a8ddfa",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104928"
+    },
+    {
+      "@id": "_:32cf6235-e92c-4329-a042-c170a0980878",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104927"
+    },
+    {
+      "@id": "_:17b710e9-7874-4272-b622-b2e1286fc5fe",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104926"
+    },
+    {
+      "@id": "_:40caa094-ee48-4ca4-aebb-5be3ae51b61e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104925"
+    },
+    {
+      "@id": "_:6311292b-0f48-447e-9546-1710cdee5ad6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104924"
+    },
+    {
+      "@id": "_:37309b16-53f2-4ce9-b38d-2f7bde4ca660",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104923"
+    },
+    {
+      "@id": "_:f503f05b-fac6-40cc-a030-7fd96af00a16",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00104922"
     }
+  ],
+  "description": "故事起源於多年前的醫療事故。美籍華裔外科專家莊恕（靳東）為追查30年前母親張淑梅的事故真相和找尋走失的妹妹來到新城仁和醫院。當年死者的女兒陸晨曦，已成為胸外科主治醫生，卻因得罪胸外科主任揚帆被調至急診。而莊恕屢次把陸晨曦重新帶回胸外手術台。莊恕的醫術讓陸晨曦驚嘆，二人漸生情愫。",
+  "image": {
+    "@id": "_:be1d38c7-8fbd-49a4-afaa-6d6e02c46d95",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/33247-000000-195823.jpg"
+    }
+  },
+  "label": "《外科風雲》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:f54342b7-eb6d-44a9-83e8-3906a7174fa0",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_33247.rss"
+  }
 }
