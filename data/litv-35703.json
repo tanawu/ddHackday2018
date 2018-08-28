@@ -1,204 +1,63 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《愛的3.14159》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00124055",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《愛的3.14159》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00124055",
-                    "url": "https://cdnstatic.svc.litv.tv/35703-000000-230598.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第6集",
-                        "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124061",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:12:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124061"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000006-236700-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000006-236700-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124060",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:50",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124060"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000005-235242-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000005-235242-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124059",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:59",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124059"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000004-233995-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000004-233995-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124058",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:11:31",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124058"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000003-232864-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000003-232864-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124057",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:50",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124057"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000002-231671-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000002-231671-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124056",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:10:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00124056"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000001-230599-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35703-000001-230599-S.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "35703",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:68e215ce-af84-4101-bc5c-be5d58d27fc8",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124061"
+    },
+    {
+      "@id": "_:757abbf3-353c-41ea-937a-2e008a5ce78b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124060"
+    },
+    {
+      "@id": "_:51a163b9-813b-4790-99b2-e80b9e66a46f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124059"
+    },
+    {
+      "@id": "_:9944cb41-648a-487c-8949-f079c7f5a84f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124058"
+    },
+    {
+      "@id": "_:9ec07fbc-72b4-4755-a5d8-1af7fc36f16a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124057"
+    },
+    {
+      "@id": "_:e443c28c-08b9-4ab9-bf78-606bb7f4dd63",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00124056"
     }
+  ],
+  "description": "趙無限（吳思賢）、趙圓滿（邵雨薇）、侯子成（陳大天）與林玫心（楊小黎）是從小在鄉下孤兒院結識的四個好朋友，一起長大並一起追求夢想，而無限、圓滿是一對命中注定在一起的戀人，尋找愛的路上，可能有跌撞，也可能中途退出，但最終一定會回到軌道上。",
+  "image": {
+    "@id": "_:50550a0a-6fb8-42d6-8099-7ef71b84499e",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/35703-000000-230598.jpg"
+    }
+  },
+  "label": "《愛的3.14159》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:c12d6468-7c28-483f-92fc-3e4b40264d84",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_35703.rss"
+  }
 }
