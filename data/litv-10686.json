@@ -1,1104 +1,273 @@
-{
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《蓋世英雄方世玉》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00039108",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《蓋世英雄方世玉》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00039108",
-                    "url": "https://cdnstatic.svc.litv.tv/10686-000000-059454.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第36集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044569",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044569"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000036-085599-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000036-085599-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044568",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044568"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000035-085601-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000035-085601-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044567",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044567"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000034-085607-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000034-085607-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044566",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044566"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000033-085619-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000033-085619-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044565",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044565"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000032-085621-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000032-085621-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044564",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044564"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000031-085628-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000031-085628-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044563",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044563"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000030-085630-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000030-085630-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044562",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044562"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000029-085636-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000029-085636-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044561",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044561"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000028-085641-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000028-085641-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044560",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044560"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000027-085644-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000027-085644-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044559",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044559"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000026-085649-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000026-085649-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044558",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044558"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000025-085656-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000025-085656-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044557",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044557"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000024-085659-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000024-085659-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044556",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044556"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000023-085664-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000023-085664-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044555",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044555"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000022-085669-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000022-085669-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044554",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044554"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000021-085675-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000021-085675-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044553",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044553"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000020-085678-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000020-085678-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044552",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044552"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000019-085687-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000019-085687-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044551",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044551"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000018-085690-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000018-085690-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044550",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044550"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000017-085693-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000017-085693-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044549",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044549"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000016-085698-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000016-085698-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044548",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044548"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000015-085706-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000015-085706-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044547",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044547"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000014-085708-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000014-085708-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044546",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044546"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000013-085712-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000013-085712-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044545",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044545"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000012-085718-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000012-085718-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044544",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044544"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000011-085721-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000011-085721-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044543",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044543"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000010-085728-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000010-085728-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044542",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044542"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000009-085734-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000009-085734-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044541",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044541"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000008-085737-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000008-085737-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044540",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044540"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000007-085738-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000007-085738-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044539",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044539"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000006-085743-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000006-085743-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044538",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044538"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000005-085749-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000005-085749-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044537",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044537"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000004-085752-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000004-085752-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044536",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044536"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000003-085759-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000003-085759-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044535",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044535"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000002-085765-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000002-085765-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044534",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "44:53",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00044534"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000001-085769-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/10686-000001-085769-S.jpg"
-                        }
-                    }
-                ]
-            }
+    {
+      "@id": "10686",
+      "@type": "Movie",
+      "describedBy": [
+        {
+          "@id": "_:bb9906fa-8e58-4413-b027-52e1e4275b70",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第36集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044569"
+        },
+        {
+          "@id": "_:542565fe-a618-4a0e-974d-898c1ddc1c39",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第35集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044568"
+        },
+        {
+          "@id": "_:fd4ac8a4-4417-4830-bc84-d4e9a89c51d0",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第34集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044567"
+        },
+        {
+          "@id": "_:f8a81a2b-c1e9-4c30-86f5-78441b9d1c90",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第33集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044566"
+        },
+        {
+          "@id": "_:23457ea8-cb31-4704-8fd7-6c283f3b56db",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第32集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044565"
+        },
+        {
+          "@id": "_:4b1ad087-e1db-444b-8eba-82c00eb3c9cd",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第31集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044564"
+        },
+        {
+          "@id": "_:27a68b67-f464-4435-ae08-2e9aec6b85d1",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第30集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044563"
+        },
+        {
+          "@id": "_:5eba91af-777c-4e89-a65f-9948277c3187",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第29集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044562"
+        },
+        {
+          "@id": "_:6a01eea0-6fbf-40c7-8f55-1c43c42a4f75",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第28集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044561"
+        },
+        {
+          "@id": "_:d48b35af-ab24-4c68-879d-c0d530155461",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第27集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044560"
+        },
+        {
+          "@id": "_:17e1add0-e2a2-4edf-9949-1ecd9e54b1ce",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第26集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044559"
+        },
+        {
+          "@id": "_:b5ee67bd-9519-41bc-8610-9ae5360a84a7",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第25集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044558"
+        },
+        {
+          "@id": "_:7ce61f8b-df14-4613-a631-6e77e1f2b58e",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第24集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044557"
+        },
+        {
+          "@id": "_:ba2003fd-1531-4320-be05-893915203dae",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第23集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044556"
+        },
+        {
+          "@id": "_:7e059b7b-45f7-41c2-8e80-0850f1e4d026",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第22集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044555"
+        },
+        {
+          "@id": "_:ebc378ab-0624-4514-bb4f-c905ba3bd3af",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第21集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044554"
+        },
+        {
+          "@id": "_:9cacfcf5-8639-462a-ab97-10c54a2efce7",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第20集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044553"
+        },
+        {
+          "@id": "_:7d030c65-052f-4c9e-aa94-86721dcb2d7c",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第19集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044552"
+        },
+        {
+          "@id": "_:75beaf0e-e17d-4a5f-8372-000df38e9a59",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第18集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044551"
+        },
+        {
+          "@id": "_:414fb9fa-f48c-4f19-89e0-ac802ed5734d",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第17集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044550"
+        },
+        {
+          "@id": "_:e2c7967b-d98a-4cc7-bd1c-32f42b42d458",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第16集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044549"
+        },
+        {
+          "@id": "_:4ee98f21-5cd8-4a73-acdd-d07a884e0193",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第15集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044548"
+        },
+        {
+          "@id": "_:e83a9d43-0d47-4b33-9316-47ffdcf7619b",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第14集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044547"
+        },
+        {
+          "@id": "_:ef4497da-8c29-47b8-98a7-90b5aecdb739",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第13集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044546"
+        },
+        {
+          "@id": "_:7e06c061-48dd-4716-8c35-9baf291986c5",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第12集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044545"
+        },
+        {
+          "@id": "_:6cfae44f-5708-420b-ada8-2a40b6f46a6c",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第11集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044544"
+        },
+        {
+          "@id": "_:6c0c986e-af26-4d23-9966-ebc035c43255",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第10集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044543"
+        },
+        {
+          "@id": "_:c8ab5772-dc40-4124-9173-e92e8b386dc9",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第9集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044542"
+        },
+        {
+          "@id": "_:89eb6f54-86de-441a-a717-4b45985337ab",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第8集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044541"
+        },
+        {
+          "@id": "_:d9f68a88-e23c-4686-8732-331244995431",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第7集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044540"
+        },
+        {
+          "@id": "_:9d4ae804-2d3f-4bdb-96b8-086f68d1b6a8",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第6集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044539"
+        },
+        {
+          "@id": "_:c2a804c7-72ea-4d95-98b1-bbab8a6a71c7",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第5集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044538"
+        },
+        {
+          "@id": "_:3b6f5fd0-38ae-4793-8923-0ddf716e1e9b",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第4集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044537"
+        },
+        {
+          "@id": "_:f218d583-6a8e-4e8e-b746-611d21b0e31c",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第3集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044536"
+        },
+        {
+          "@id": "_:8358edbe-b485-4463-ad3b-4f795ae60672",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第2集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044535"
+        },
+        {
+          "@id": "_:aa99b0eb-e7f7-4aff-ac42-61949c4f983e",
+          "@type": "Description",
+          "dataSource": "2018/08/27",
+          "label": "第1集",
+          "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00044534"
         }
+      ],
+      "description": "頑劣不羈的少年方世玉，在廣州素有小霸王之稱。性格爭強好勝，做事不計後果，但心地善良，有強烈的正義感。其父方德為讓方世玉修身養性，便將他送去了杭州一所義學去唸書習武。在唸書習武的過程中，方世玉認識了同來求學的洪熙官與胡惠乾，三成為摯友，並一起面對以雷老虎為首的惡勢力。",
+      "image": {
+        "@id": "_:875bb2c2-7f01-4079-8d77-6eaa4689c77c",
+        "@type": "Image",
+        "url": {
+          "@type": "URL",
+          "@value": "https://cdnstatic.svc.litv.tv/10686-000000-059454.jpg"
+        }
+      },
+      "label": "《蓋世英雄方世玉》免費線上看 - LiTV",
+      "webpage": {
+        "@id": "_:0aae7479-ab15-41c3-9b1c-62e68995aade",
+        "@type": "Webpage",
+        "label": "https://ys.svc.litv.tv/rss/LiTV_10686.rss"
+      }
     }
-}
