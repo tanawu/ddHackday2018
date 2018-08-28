@@ -10,10 +10,7 @@
       "description": "更新至7集",
       "label": "Good Doctor善良醫生(日)",
       "notableFor": "主演:山崎賢人,藤木直人,上野樹里",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rqzjq3kc.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rqzjq3kc.html",
       "uuid": "a_19rrh72t85"
     },
     {
@@ -24,10 +21,7 @@
       "description": "更新至5集",
       "label": "dele刪除",
       "notableFor": "主演:山田孝之,菅田將暉,麻生久美子",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rqzjvgag.html"
-      },
+      "url":"https://tw.iqiyi.com/v_19rqzjvgag.html",
       "uuid": "a_19rrh65b7l"
     },
     {
@@ -38,10 +32,7 @@
       "description": "更新至6集",
       "label": "禿鷹",
       "notableFor": "主演:綾野剛,澤尻英龍華",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rqys0ygg.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rqys0ygg.html",
       "uuid": "a_19rrh5zii1"
     },
     {
@@ -52,10 +43,7 @@
       "description": "10集全",
       "label": "信用詐欺師JP",
       "notableFor": "主演:長澤雅美,東出昌大,小日向文世",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rrctpm4c.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rrctpm4c.html",
       "uuid": "a_19rrgxvn91"
     },
     {
@@ -66,10 +54,7 @@
       "description": "7集全",
       "label": "大叔的愛",
       "notableFor": "主演:吉田鋼太郎,林遣都,田中圭",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rrd0sbxg.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rrd0sbxg.html",
       "uuid": "a_19rrgxxtzx"
     },
     {
@@ -80,10 +65,7 @@
       "description": "16集全",
       "label": "惡作劇2吻2014",
       "notableFor": "主演:古川雄輝,矢作穂香",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rr1s6hts.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rr1s6hts.html",
       "uuid": "a_19rrh6x6nl"
     },
     {
@@ -94,10 +76,7 @@
       "description": "11集全",
       "label": "型男的時光之旅",
       "notableFor": "主演:竹野內豐",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rr9nuvv0.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rr9nuvv0.html",
       "uuid": "a_19rrh9t1zh"
     },
     {
@@ -108,10 +87,7 @@
       "description": "4集全",
       "label": "櫻花道附近的故事",
       "notableFor": "主演:福山雅治",
-      "url": {
-        "@type": "URL",
-        "@value": "https://tw.iqiyi.com/v_19rrcy4xgo.html"
-      },
+      "url": "https://tw.iqiyi.com/v_19rrcy4xgo.html",
       "uuid": "a_19rrgy6i85"
     }
   ]
