@@ -1,1164 +1,287 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《油膩的Melo》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00125028",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《油膩的Melo》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00125028",
-                    "url": "https://cdnstatic.svc.litv.tv/35859-000000-231674.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第38集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125066",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "28:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125066"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000038-232321-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000038-232321-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第37集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125065",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125065"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000037-232320-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000037-232320-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第36集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125064",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:36",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125064"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000036-232319-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000036-232319-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125063",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:38",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125063"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000035-232318-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000035-232318-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125062",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:49",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125062"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000034-232317-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000034-232317-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125061",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:33",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125061"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000033-232316-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000033-232316-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125060",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "28:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125060"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000032-232315-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000032-232315-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125059",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "31:14",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125059"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000031-232314-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000031-232314-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125058",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125058"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000030-232313-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000030-232313-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125057",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:24",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125057"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000029-232312-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000029-232312-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125056",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "26:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125056"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000028-231656-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000028-231656-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125055",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:38",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125055"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000027-231655-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000027-231655-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125054",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:40",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125054"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000026-231654-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000026-231654-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125053",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:28",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125053"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000025-231653-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000025-231653-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125052",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "31:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125052"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000024-231652-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000024-231652-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125051",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:29",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125051"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000023-231651-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000023-231651-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125050",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125050"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000022-231650-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000022-231650-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125049",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "31:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125049"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000021-231649-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000021-231649-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125048",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125048"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000020-231641-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000020-231641-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125047",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:04",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125047"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000019-231640-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000019-231640-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125046",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "31:45",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125046"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000018-231639-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000018-231639-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125045",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:24",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125045"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000017-231638-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000017-231638-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125044",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:43",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125044"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000016-232311-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000016-232311-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125043",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125043"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000015-232310-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000015-232310-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125042",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:41",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125042"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000014-232309-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000014-232309-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125041",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:51",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125041"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000013-232308-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000013-232308-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125040",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "31:26",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125040"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000012-232307-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000012-232307-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125039",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "30:45",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125039"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000011-232306-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000011-232306-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125038",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "31:24",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125038"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000010-232305-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000010-232305-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125037",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125037"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000009-232304-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000009-232304-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125036",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125036"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000008-232303-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000008-232303-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125035",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125035"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000007-232302-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000007-232302-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125034",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "32:24",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125034"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000006-232301-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000006-232301-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125033",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125033"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000005-232300-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000005-232300-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125032",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "34:17",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125032"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000004-232299-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000004-232299-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125031",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "27:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125031"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000003-232298-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000003-232298-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125030",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:49",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125030"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000002-232297-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000002-232297-S.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125029",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "29:58",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125029"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000001-232296-S.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35859-000001-232296-S.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "35859",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:237549fb-9051-4f93-9f47-91343e53c1c6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第38集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125066"
+    },
+    {
+      "@id": "_:ae13a41a-2780-4334-a5c0-902d6c8ce38c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第37集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125065"
+    },
+    {
+      "@id": "_:7dd74ee9-35ac-43a7-a81e-c551c763473c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第36集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125064"
+    },
+    {
+      "@id": "_:401976a2-8d3c-489b-8610-755931a41d11",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第35集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125063"
+    },
+    {
+      "@id": "_:d7e57c9f-91ab-47d7-940b-25e70c1ffade",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第34集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125062"
+    },
+    {
+      "@id": "_:2043e3f8-68ab-4a41-824d-52ef8b170e78",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第33集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125061"
+    },
+    {
+      "@id": "_:31c23ece-3724-42f4-b1b2-49cb1d9ca7f9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第32集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125060"
+    },
+    {
+      "@id": "_:91b2ef26-5351-4e33-9f05-db0d4c79747e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第31集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125059"
+    },
+    {
+      "@id": "_:6fbeb4ec-973c-460b-96f7-7cee86dcac31",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第30集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125058"
+    },
+    {
+      "@id": "_:c3fde16c-05d6-4e41-9016-91c1431bdbbb",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第29集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125057"
+    },
+    {
+      "@id": "_:f68dad32-95a7-4ebe-b6a7-124bce444772",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第28集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125056"
+    },
+    {
+      "@id": "_:e2f5b0ba-9905-4f2e-bb0e-974ea1d5bcab",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第27集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125055"
+    },
+    {
+      "@id": "_:7fd7c078-0a51-4469-afac-fdb0d3bf9c43",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第26集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125054"
+    },
+    {
+      "@id": "_:89ca3dab-d8f5-4095-9936-2ef3209d24ba",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第25集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125053"
+    },
+    {
+      "@id": "_:a8196820-1b37-4bda-8de5-82ea2d665eb0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第24集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125052"
+    },
+    {
+      "@id": "_:690a7d35-deba-477f-87db-350b6baadb0d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第23集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125051"
+    },
+    {
+      "@id": "_:00334a28-92a7-4641-98d5-19d5e40e95c4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第22集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125050"
+    },
+    {
+      "@id": "_:bc64f4de-836d-445b-9159-ae4aa1b61e0c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第21集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125049"
+    },
+    {
+      "@id": "_:4867ab1a-8123-4b81-9cb2-9ebb80e097a1",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第20集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125048"
+    },
+    {
+      "@id": "_:b4e5f3a7-60a8-48d0-a6a4-db425b274ed0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第19集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125047"
+    },
+    {
+      "@id": "_:b85778b5-a537-40d6-bbc0-f0fb2cd47c23",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第18集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125046"
+    },
+    {
+      "@id": "_:3350f377-d32d-489d-a330-81b3a7cab6bb",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第17集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125045"
+    },
+    {
+      "@id": "_:5b7462b6-69fd-4622-94b9-8cab1cb37cb2",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第16集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125044"
+    },
+    {
+      "@id": "_:126a7f84-bf23-4f07-b548-8e21b86321b6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第15集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125043"
+    },
+    {
+      "@id": "_:24c11be5-8210-4271-b4b5-ef046e167da7",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第14集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125042"
+    },
+    {
+      "@id": "_:a87f2f12-408c-482b-b11e-1465b76b4247",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第13集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125041"
+    },
+    {
+      "@id": "_:72940f35-41ae-44f8-a78c-eaf092f18e76",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第12集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125040"
+    },
+    {
+      "@id": "_:7e6601f1-497e-4316-a186-c3829f584761",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第11集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125039"
+    },
+    {
+      "@id": "_:aa9b1352-99ae-432b-a438-254b20ecf473",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第10集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125038"
+    },
+    {
+      "@id": "_:b46df882-d34f-402d-bb81-474ed4c6c68b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第9集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125037"
+    },
+    {
+      "@id": "_:461ab69f-9477-475e-9433-0d5e1da98e03",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125036"
+    },
+    {
+      "@id": "_:dbf2b29c-468c-45ab-9918-98dc8cc782fa",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125035"
+    },
+    {
+      "@id": "_:b38037bc-91ee-43cb-98ba-3fff871f7db6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125034"
+    },
+    {
+      "@id": "_:3df76c8d-49e3-4976-8d61-b3d59b14c94c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125033"
+    },
+    {
+      "@id": "_:cb233f16-6bf0-42e7-a33a-6e9992ec4d12",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125032"
+    },
+    {
+      "@id": "_:386cd04e-400e-42ae-a3ac-9c00d6256457",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125031"
+    },
+    {
+      "@id": "_:87ff2c13-663f-4305-986d-34214d5cc3bf",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125030"
+    },
+    {
+      "@id": "_:f1e4ed29-d101-4922-bdef-b7b2bdf4ca77",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125029"
     }
+  ],
+  "description": "中餐館「飢餓的炒鍋」的老闆斗七星是黑社會的二把手。他開餐廳的目的是為過去跟隨他的兄弟們提供一個工作場所，讓他們學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大廚徐風，和被宣告破產的繼承人段賽優分別拜訪了斗七星，想藉他的幫助重新站起來。",
+  "image": {
+    "@id": "_:63ae10e9-bb18-4290-9cd6-2cf796fa08d7",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/35859-000000-231674.jpg"
+    }
+  },
+  "label": "《油膩的Melo》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:0491a2cc-f5b4-4a13-ab32-75089b24fced",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_35859.rss"
+  }
 }
