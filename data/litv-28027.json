@@ -1,1524 +1,371 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《童裝小姐》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00092176",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《童裝小姐》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00092176",
-                    "url": "https://cdnstatic.svc.litv.tv/28027-000000-166414.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第50集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092230",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "55:40",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092230"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000050-166464.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000050-166464.jpg"
-                        }
-                    },
-                    {
-                        "title": "第49集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092229",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:07",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092229"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000049-166463.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000049-166463.jpg"
-                        }
-                    },
-                    {
-                        "title": "第48集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092228",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:47",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092228"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000048-166462.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000048-166462.jpg"
-                        }
-                    },
-                    {
-                        "title": "第47集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092227",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092227"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000047-166461.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000047-166461.jpg"
-                        }
-                    },
-                    {
-                        "title": "第46集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092226",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092226"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000046-166460.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000046-166460.jpg"
-                        }
-                    },
-                    {
-                        "title": "第45集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092225",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "39:56",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092225"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000045-166459.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000045-166459.jpg"
-                        }
-                    },
-                    {
-                        "title": "第44集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092224",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:56",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092224"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000044-166458.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000044-166458.jpg"
-                        }
-                    },
-                    {
-                        "title": "第43集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092223",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092223"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000043-166457.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000043-166457.jpg"
-                        }
-                    },
-                    {
-                        "title": "第42集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092222",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092222"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000042-166456.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000042-166456.jpg"
-                        }
-                    },
-                    {
-                        "title": "第41集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092221",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092221"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000041-166455.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000041-166455.jpg"
-                        }
-                    },
-                    {
-                        "title": "第40集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092220",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092220"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000040-166454.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000040-166454.jpg"
-                        }
-                    },
-                    {
-                        "title": "第39集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092219",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:27",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092219"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000039-166453.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000039-166453.jpg"
-                        }
-                    },
-                    {
-                        "title": "第38集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092218",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092218"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000038-166452.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000038-166452.jpg"
-                        }
-                    },
-                    {
-                        "title": "第37集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092217",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:47",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092217"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000037-166451.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000037-166451.jpg"
-                        }
-                    },
-                    {
-                        "title": "第36集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092216",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092216"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000036-166450.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000036-166450.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092215",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:45",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092215"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000035-166449.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000035-166449.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092214",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092214"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000034-166448.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000034-166448.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092213",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:30",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092213"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000033-166447.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000033-166447.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092212",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:12",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092212"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000032-166446.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000032-166446.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092211",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092211"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000031-166445.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000031-166445.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092210",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092210"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000030-166444.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000030-166444.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092209",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092209"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000029-166443.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000029-166443.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092208",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092208"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000028-166442.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000028-166442.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092207",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092207"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000027-166441.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000027-166441.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092206",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:48",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092206"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000026-166440.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000026-166440.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092205",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092205"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000025-166439.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000025-166439.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092204",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:28",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092204"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000024-166438.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000024-166438.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092203",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092203"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000023-166437.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000023-166437.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092202",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092202"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000022-166436.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000022-166436.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092201",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:08",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092201"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000021-166435.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000021-166435.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092200",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092200"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000020-166434.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000020-166434.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092199",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:49",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092199"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000019-166433.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000019-166433.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092198",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092198"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000018-166432.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000018-166432.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092197",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:35",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092197"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000017-166431.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000017-166431.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092196",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:38",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092196"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000016-166430.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000016-166430.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092195",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:29",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092195"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000015-166429.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000015-166429.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092194",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:29",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092194"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000014-166428.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000014-166428.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092193",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:09",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092193"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000013-166427.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000013-166427.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092192",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:38",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092192"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000012-166426.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000012-166426.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092191",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092191"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000011-166425.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000011-166425.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092190",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:43",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092190"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000010-166424.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000010-166424.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092189",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:55",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092189"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000009-166423.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000009-166423.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092188",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092188"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000008-166422.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000008-166422.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092187",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092187"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000007-166421.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000007-166421.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092186",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092186"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000006-166420.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000006-166420.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092185",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:42",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092185"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000005-166419.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000005-166419.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092184",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092184"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000004-166418.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000004-166418.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092183",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092183"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000003-166417.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000003-166417.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092182",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:19",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092182"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000002-166416.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000002-166416.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092181",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:08",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00092181"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000001-166415.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/28027-000001-166415.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "28027",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:9573ccf9-9259-48d1-b9b8-f796997b5c0a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第50集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092230"
+    },
+    {
+      "@id": "_:49e8e40e-7f36-446f-ba06-5961b36f5ef3",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第49集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092229"
+    },
+    {
+      "@id": "_:ac65d0a0-8555-49f1-8609-1c7312839493",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第48集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092228"
+    },
+    {
+      "@id": "_:1a445ee5-8bbd-4e2d-8185-79f6932c6579",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第47集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092227"
+    },
+    {
+      "@id": "_:fb9caa24-0b0d-4be1-80f4-ebeb0d2a4bb0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第46集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092226"
+    },
+    {
+      "@id": "_:345fcc5a-9176-440d-bf0c-d643589246e9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第45集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092225"
+    },
+    {
+      "@id": "_:926f7cbd-5ab4-4722-8ed6-d7d0b25bcd22",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第44集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092224"
+    },
+    {
+      "@id": "_:639745cc-5555-4569-9b50-842148f60687",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第43集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092223"
+    },
+    {
+      "@id": "_:515d953c-d231-4ca2-8f38-f7c1b8877121",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第42集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092222"
+    },
+    {
+      "@id": "_:5ee13783-9920-4799-91d0-3eda83031590",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第41集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092221"
+    },
+    {
+      "@id": "_:f368977e-de94-4769-bbbe-f0d06cdcb0b9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第40集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092220"
+    },
+    {
+      "@id": "_:6c6b470e-882d-4036-95ab-263e826ae729",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第39集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092219"
+    },
+    {
+      "@id": "_:607fdaa8-6372-4af5-883c-c5d3c737fbf5",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第38集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092218"
+    },
+    {
+      "@id": "_:db5f8a8a-8f01-4b0f-ba09-0b658d0d492f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第37集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092217"
+    },
+    {
+      "@id": "_:e4720d99-7f38-4051-a6de-805e9dc6d8da",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第36集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092216"
+    },
+    {
+      "@id": "_:00d7b6cf-6af9-487a-8a38-bae5f2fa3b1a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第35集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092215"
+    },
+    {
+      "@id": "_:2680080d-ace8-44e5-be4c-09092f243f36",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第34集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092214"
+    },
+    {
+      "@id": "_:cb5510c0-61f7-42cb-9543-3551d81ae479",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第33集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092213"
+    },
+    {
+      "@id": "_:5daaecdf-e9fc-4b5f-be6d-db1f2c6cf16a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第32集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092212"
+    },
+    {
+      "@id": "_:acd1c0f4-028e-4daa-890c-ca1715fc5cf3",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第31集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092211"
+    },
+    {
+      "@id": "_:30ea622a-9dc8-4103-85ba-0b4bd6ae0a4c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第30集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092210"
+    },
+    {
+      "@id": "_:d1c5ccf1-f478-4a81-bace-91f965224b9e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第29集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092209"
+    },
+    {
+      "@id": "_:46bf5735-3149-4683-920b-470294144aa4",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第28集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092208"
+    },
+    {
+      "@id": "_:019aa68f-0c36-422d-b7fa-98b873966ab9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第27集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092207"
+    },
+    {
+      "@id": "_:83346a47-e9b8-486d-a38d-3a3385d1d553",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第26集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092206"
+    },
+    {
+      "@id": "_:ff967d64-bc06-4ded-9d71-8a1cad8dc5f3",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第25集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092205"
+    },
+    {
+      "@id": "_:6dede2ff-edfd-4491-bedf-142aa4a9f2c7",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第24集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092204"
+    },
+    {
+      "@id": "_:a38679cd-987f-45fe-abe5-f97c6fd48d5d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第23集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092203"
+    },
+    {
+      "@id": "_:7ae5cbf6-45de-455f-90c0-2fd208031093",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第22集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092202"
+    },
+    {
+      "@id": "_:a18a1086-626c-477b-aecd-43544a40723f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第21集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092201"
+    },
+    {
+      "@id": "_:528c77be-9dfb-4031-9da4-98779394fb0e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第20集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092200"
+    },
+    {
+      "@id": "_:1fce9949-5593-441c-bf49-dbd1a287bf42",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第19集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092199"
+    },
+    {
+      "@id": "_:d9f1c4f0-146f-4415-b816-12b00b681c61",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第18集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092198"
+    },
+    {
+      "@id": "_:b139e474-3a15-429c-b972-cefe8ef8fd83",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第17集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092197"
+    },
+    {
+      "@id": "_:20199a29-d96e-4877-85ad-e79ff70e9bc0",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第16集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092196"
+    },
+    {
+      "@id": "_:25f057c2-2729-4c9d-92b9-b4392dcea755",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第15集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092195"
+    },
+    {
+      "@id": "_:319d6511-3db4-4746-b1e3-fe9e04b2042e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第14集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092194"
+    },
+    {
+      "@id": "_:507a5fe0-03ec-4904-afda-00dff0951113",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第13集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092193"
+    },
+    {
+      "@id": "_:3ad4e355-334b-48c1-becb-c8766a51be34",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第12集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092192"
+    },
+    {
+      "@id": "_:6a9585fa-c565-4762-83be-f7aebc75873a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第11集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092191"
+    },
+    {
+      "@id": "_:addb1939-0543-44b5-9410-245283cb9b2c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第10集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092190"
+    },
+    {
+      "@id": "_:f3728d15-134b-45a7-a5fd-7074eae19ab6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第9集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092189"
+    },
+    {
+      "@id": "_:8f2d9ccb-09ce-40b8-a1eb-5865e925585c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092188"
+    },
+    {
+      "@id": "_:7138b38d-02bd-4cb0-85b1-3f897b53ee72",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092187"
+    },
+    {
+      "@id": "_:61383aea-c384-4f52-9ae8-bd670f9d5954",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092186"
+    },
+    {
+      "@id": "_:faafc860-aa51-4172-bd36-09b146c66906",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092185"
+    },
+    {
+      "@id": "_:9f06ac7d-6967-4560-87a1-fe890139e231",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092184"
+    },
+    {
+      "@id": "_:60713401-426a-4455-83d6-e8f7bd27dbb3",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092183"
+    },
+    {
+      "@id": "_:01b93dbe-5af7-4ca7-bd5f-cdd38eda92d9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092182"
+    },
+    {
+      "@id": "_:aeae1767-e279-4742-a0cb-d64ccd44c73d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00092181"
     }
+  ],
+  "description": "改編自日本知名童裝品牌女性創業家的真實故事！坂東堇從小生長在富裕之家，喜歡刺繡裁縫。從未過過苦日子的她，遇戰亂而寄人籬下。因緣際會下，她幫外國太太做尿布，獲得了第一件童裝訂單！她與昔日同伴從此開創了童裝事業，還成立日本史上第一間童裝店。別緻的設計，更晉升日本皇室御用童裝！",
+  "image": {
+    "@id": "_:8f354a8f-c9dd-490a-8bdb-ec0dd2d79e08",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/28027-000000-166414.jpg"
+    }
+  },
+  "label": "《童裝小姐》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:31c0f5e7-4ebb-423b-877e-0a8e34c83195",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_28027.rss"
+  }
 }
