@@ -1,0 +1,34 @@
+{
+  "image": [
+    {
+      "dataSource": "https://cdnstatic.svc.litv.tv/35768-000000-234273.jpg",
+      "description": "35集",
+      "label": "克拉之戀",
+      "url":"https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00126053"
+    },
+    {
+      "dataSource": "https://cdnstatic.svc.litv.tv/36006-000048-234526-S.jpg",
+      "description": "34集",
+      "label": "克拉之戀",
+      "url":"https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00126052"
+    },
+    {
+      "dataSource": "https://cdnstatic.svc.litv.tv/36006-000048-234526-S.jpg",
+      "description": "33集",
+      "label": "克拉之戀",
+      "url":"https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00126051"
+    },
+    {
+      "dataSource": "https://cdnstatic.svc.litv.tv/36006-000048-234526-S.jpg",
+      "description": "32集",
+      "label": "克拉之戀",
+      "url":"https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00126050"
+    },
+    {
+      "dataSource": "https://cdnstatic.svc.litv.tv/36006-000048-234526-S.jpg",
+      "description": "31集",
+      "label": "克拉之戀",
+      "url":"https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00126049"
+    }
+  ]
+}
