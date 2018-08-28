@@ -1,1584 +1,385 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《阿淺》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00070914",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《阿淺》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00070914",
-                    "url": "https://cdnstatic.svc.litv.tv/21350-000000-128607.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第52集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070966",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:47",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070966"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000052-128659.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000052-128659.jpg"
-                        }
-                    },
-                    {
-                        "title": "第51集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070965",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:20",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070965"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000051-128658.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000051-128658.jpg"
-                        }
-                    },
-                    {
-                        "title": "第50集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070964",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:06",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070964"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000050-128657.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000050-128657.jpg"
-                        }
-                    },
-                    {
-                        "title": "第49集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070963",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:17",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070963"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000049-128656.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000049-128656.jpg"
-                        }
-                    },
-                    {
-                        "title": "第48集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070962",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070962"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000048-128655.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000048-128655.jpg"
-                        }
-                    },
-                    {
-                        "title": "第47集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070961",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070961"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000047-128654.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000047-128654.jpg"
-                        }
-                    },
-                    {
-                        "title": "第46集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070960",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070960"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000046-128653.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000046-128653.jpg"
-                        }
-                    },
-                    {
-                        "title": "第45集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070959",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070959"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000045-128652.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000045-128652.jpg"
-                        }
-                    },
-                    {
-                        "title": "第44集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070958",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:31",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070958"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000044-128651.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000044-128651.jpg"
-                        }
-                    },
-                    {
-                        "title": "第43集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070957",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:35",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070957"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000043-128650.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000043-128650.jpg"
-                        }
-                    },
-                    {
-                        "title": "第42集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070956",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:10",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070956"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000042-128649.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000042-128649.jpg"
-                        }
-                    },
-                    {
-                        "title": "第41集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070955",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:28",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070955"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000041-128648.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000041-128648.jpg"
-                        }
-                    },
-                    {
-                        "title": "第40集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070954",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070954"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000040-128647.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000040-128647.jpg"
-                        }
-                    },
-                    {
-                        "title": "第39集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070953",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:27",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070953"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000039-128646.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000039-128646.jpg"
-                        }
-                    },
-                    {
-                        "title": "第38集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070952",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:19",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070952"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000038-128645.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000038-128645.jpg"
-                        }
-                    },
-                    {
-                        "title": "第37集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070951",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:40",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070951"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000037-128644.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000037-128644.jpg"
-                        }
-                    },
-                    {
-                        "title": "第36集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070950",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:41",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070950"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000036-128643.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000036-128643.jpg"
-                        }
-                    },
-                    {
-                        "title": "第35集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070949",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070949"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000035-128642.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000035-128642.jpg"
-                        }
-                    },
-                    {
-                        "title": "第34集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070948",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:11",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070948"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000034-128641.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000034-128641.jpg"
-                        }
-                    },
-                    {
-                        "title": "第33集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070947",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070947"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000033-128640.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000033-128640.jpg"
-                        }
-                    },
-                    {
-                        "title": "第32集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070946",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:32",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070946"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000032-128639.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000032-128639.jpg"
-                        }
-                    },
-                    {
-                        "title": "第31集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070945",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:01",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070945"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000031-128638.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000031-128638.jpg"
-                        }
-                    },
-                    {
-                        "title": "第30集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070944",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070944"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000030-128637.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000030-128637.jpg"
-                        }
-                    },
-                    {
-                        "title": "第29集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070943",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070943"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000029-128636.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000029-128636.jpg"
-                        }
-                    },
-                    {
-                        "title": "第28集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070942",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:22",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070942"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000028-128635.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000028-128635.jpg"
-                        }
-                    },
-                    {
-                        "title": "第27集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070941",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:46",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070941"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000027-128634.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000027-128634.jpg"
-                        }
-                    },
-                    {
-                        "title": "第26集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070940",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:04",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070940"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000026-128633.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000026-128633.jpg"
-                        }
-                    },
-                    {
-                        "title": "第25集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070939",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:29",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070939"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000025-128632.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000025-128632.jpg"
-                        }
-                    },
-                    {
-                        "title": "第24集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070938",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070938"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000024-128631.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000024-128631.jpg"
-                        }
-                    },
-                    {
-                        "title": "第23集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070937",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070937"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000023-128630.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000023-128630.jpg"
-                        }
-                    },
-                    {
-                        "title": "第22集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070936",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:15",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070936"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000022-128629.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000022-128629.jpg"
-                        }
-                    },
-                    {
-                        "title": "第21集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070935",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:02",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070935"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000021-128628.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000021-128628.jpg"
-                        }
-                    },
-                    {
-                        "title": "第20集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070934",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:29",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070934"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000020-128627.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000020-128627.jpg"
-                        }
-                    },
-                    {
-                        "title": "第19集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070933",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:28",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070933"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000019-128626.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000019-128626.jpg"
-                        }
-                    },
-                    {
-                        "title": "第18集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070932",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:08",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070932"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000018-128625.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000018-128625.jpg"
-                        }
-                    },
-                    {
-                        "title": "第17集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070931",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:18",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070931"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000017-128624.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000017-128624.jpg"
-                        }
-                    },
-                    {
-                        "title": "第16集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070930",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:52",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070930"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000016-128623.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000016-128623.jpg"
-                        }
-                    },
-                    {
-                        "title": "第15集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070929",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:04",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070929"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000015-128622.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000015-128622.jpg"
-                        }
-                    },
-                    {
-                        "title": "第14集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070928",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:40",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070928"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000014-128621.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000014-128621.jpg"
-                        }
-                    },
-                    {
-                        "title": "第13集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070927",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:36",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070927"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000013-128620.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000013-128620.jpg"
-                        }
-                    },
-                    {
-                        "title": "第12集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070926",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:12",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070926"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000012-128619.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000012-128619.jpg"
-                        }
-                    },
-                    {
-                        "title": "第11集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070925",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:21",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070925"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000011-128618.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000011-128618.jpg"
-                        }
-                    },
-                    {
-                        "title": "第10集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070924",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:43",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070924"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000010-128617.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000010-128617.jpg"
-                        }
-                    },
-                    {
-                        "title": "第9集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070923",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:05",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070923"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000009-128616.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000009-128616.jpg"
-                        }
-                    },
-                    {
-                        "title": "第8集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070922",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:32",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070922"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000008-128615.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000008-128615.jpg"
-                        }
-                    },
-                    {
-                        "title": "第7集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070921",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:33",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070921"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000007-128614.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000007-128614.jpg"
-                        }
-                    },
-                    {
-                        "title": "第6集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070920",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "42:00",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070920"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000006-128613.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000006-128613.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070919",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:23",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070919"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000005-128612.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000005-128612.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070918",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:21",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070918"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000004-128611.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000004-128611.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070917",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "41:54",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070917"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000003-128610.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000003-128610.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070916",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "40:31",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070916"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000002-128609.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000002-128609.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070915",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "39:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00070915"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000001-128608.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/21350-000001-128608.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "21350",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:b2dd5cb7-eee6-4ba5-b560-ea930fc9d515",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第52集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070966"
+    },
+    {
+      "@id": "_:fa945094-341a-42de-bd71-f3b045e2b02f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第51集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070965"
+    },
+    {
+      "@id": "_:6c65cb8d-c3b1-4200-9245-f9c8bf80a991",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第50集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070964"
+    },
+    {
+      "@id": "_:8e8dcd35-647a-4bf7-9f5e-c7293b3a017b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第49集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070963"
+    },
+    {
+      "@id": "_:19d6f9fb-e45b-4334-b3c3-49f8f0acb233",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第48集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070962"
+    },
+    {
+      "@id": "_:34b889d7-84d0-49ef-9758-6dbdfefff7aa",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第47集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070961"
+    },
+    {
+      "@id": "_:b1b7cb4e-1093-4ea0-b9c0-c2c2f901e9da",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第46集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070960"
+    },
+    {
+      "@id": "_:8a4feeff-b711-49ed-9f11-7a4f0910795b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第45集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070959"
+    },
+    {
+      "@id": "_:a42b63e9-0531-40e7-9684-20357dbac430",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第44集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070958"
+    },
+    {
+      "@id": "_:285faae9-886e-4e2d-bd49-ddcd2f992f33",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第43集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070957"
+    },
+    {
+      "@id": "_:5f2c7304-4a0a-4b88-9a3f-fb8716142804",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第42集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070956"
+    },
+    {
+      "@id": "_:417580b2-cac1-4aca-be9f-f8b1c2e62f16",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第41集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070955"
+    },
+    {
+      "@id": "_:a990dcd2-4afe-4339-bfcc-7359cb2ecfff",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第40集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070954"
+    },
+    {
+      "@id": "_:4f0e5168-aa79-4f56-98c6-a2dfe5fa9c1a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第39集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070953"
+    },
+    {
+      "@id": "_:ecdbaa1b-8be6-4ce1-8231-19d16cd7f504",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第38集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070952"
+    },
+    {
+      "@id": "_:6b650f5c-f240-464f-9cc2-c0f97d793e20",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第37集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070951"
+    },
+    {
+      "@id": "_:654a9e89-7acf-4b21-b4af-997723637735",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第36集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070950"
+    },
+    {
+      "@id": "_:1782c390-f100-4f2e-b247-7b37743c300a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第35集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070949"
+    },
+    {
+      "@id": "_:7fa9bcca-5c52-4b2b-942c-76ccf3d2c395",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第34集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070948"
+    },
+    {
+      "@id": "_:188e909d-326b-4790-b568-ea4e5cdbd172",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第33集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070947"
+    },
+    {
+      "@id": "_:14258e3c-2ab8-47cc-b998-558ee6945678",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第32集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070946"
+    },
+    {
+      "@id": "_:852ff12a-93b1-4975-abca-ef6d487f5895",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第31集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070945"
+    },
+    {
+      "@id": "_:5bd1271c-7ba6-46c7-b9b2-3a855b868246",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第30集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070944"
+    },
+    {
+      "@id": "_:55505240-1546-49e0-9a88-ff6e164bbe9f",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第29集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070943"
+    },
+    {
+      "@id": "_:465d0374-1631-4200-bd47-a96bb40ea0c7",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第28集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070942"
+    },
+    {
+      "@id": "_:81fb4961-a223-4989-9c6a-78596b972057",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第27集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070941"
+    },
+    {
+      "@id": "_:0247567e-cc3e-4270-9be9-91e90444cb44",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第26集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070940"
+    },
+    {
+      "@id": "_:efd92b01-47bd-48dc-be60-648c1820ab2d",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第25集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070939"
+    },
+    {
+      "@id": "_:0520d323-f02d-4bc6-8b51-855677dea8d5",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第24集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070938"
+    },
+    {
+      "@id": "_:91a8a6c0-5769-49af-940b-66ebe2db6b5b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第23集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070937"
+    },
+    {
+      "@id": "_:5f82a6a3-2f73-4cce-acdc-0b46349995cb",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第22集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070936"
+    },
+    {
+      "@id": "_:3db1c083-9da6-47ce-bd0c-0ec1f01ded63",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第21集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070935"
+    },
+    {
+      "@id": "_:efe08a79-3ac7-40de-9c92-a8f6e65fa7b9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第20集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070934"
+    },
+    {
+      "@id": "_:107db24a-03bb-4dcd-8e02-1f0248defc7c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第19集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070933"
+    },
+    {
+      "@id": "_:da97649b-f8b6-413c-adce-df0929295b69",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第18集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070932"
+    },
+    {
+      "@id": "_:436f1081-8739-454b-b002-8c34c5cf76b9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第17集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070931"
+    },
+    {
+      "@id": "_:6c8b32ac-dc29-41bd-9bbf-b26c8cf0c0bd",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第16集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070930"
+    },
+    {
+      "@id": "_:9b4ca567-c4c2-43bd-b71f-232c72d942d5",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第15集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070929"
+    },
+    {
+      "@id": "_:06a580a7-af1b-4702-a011-34759e7ebc95",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第14集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070928"
+    },
+    {
+      "@id": "_:bf881400-e771-4753-aae8-cb05b85ae49b",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第13集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070927"
+    },
+    {
+      "@id": "_:9aa91bca-7eb6-4712-9f31-f3f30c4810ee",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第12集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070926"
+    },
+    {
+      "@id": "_:686546e0-fab7-4978-a3f7-607500a462c6",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第11集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070925"
+    },
+    {
+      "@id": "_:d0ce815c-5f85-445d-be90-71970adcbc9c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第10集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070924"
+    },
+    {
+      "@id": "_:d2cc2301-593a-45c1-b405-e857e86fe608",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第9集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070923"
+    },
+    {
+      "@id": "_:c9e6fdd0-891f-4f6e-9a38-0334b07b36b2",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第8集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070922"
+    },
+    {
+      "@id": "_:dbdbd6bf-81d3-40ba-92c3-d3cdb3332245",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第7集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070921"
+    },
+    {
+      "@id": "_:ba2e8932-59fa-462f-a4cf-ddad9bb708ae",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070920"
+    },
+    {
+      "@id": "_:e41a6520-670e-49ad-921d-ff75da69c5a2",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070919"
+    },
+    {
+      "@id": "_:51ace56d-7b2e-4107-86a2-eeaf13cc42a5",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070918"
+    },
+    {
+      "@id": "_:135a428a-d753-4175-95ed-97916314e0dc",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070917"
+    },
+    {
+      "@id": "_:ffb16a6d-a97a-4bee-8dcd-96f0b012b2b9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070916"
+    },
+    {
+      "@id": "_:733a2e50-17a5-4ddc-ba5e-7b2ca4c5e03e",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00070915"
     }
+  ],
+  "description": "以古川智映子的小說《小說 土佐堀川》為構想原案，故事依據大阪企業家廣岡淺子的生涯所創作。幕末，京都知名富商的次女今井淺（波琉）出生了，按照慣例，父母隨即為她指定一門親事，對方是大阪數一數二的錢鋪的次男新次郎（玉木宏）。起先非常抗拒這門親事的淺，漸漸地被新次郎的翩翩風度所吸引…",
+  "image": {
+    "@id": "_:2d523c63-8ecc-431c-8972-9280e9529515",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/21350-000000-128607.jpg"
+    }
+  },
+  "label": "《阿淺》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:a48ecb1c-8e59-48d4-b29e-25aa4c193405",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_21350.rss"
+  }
 }
