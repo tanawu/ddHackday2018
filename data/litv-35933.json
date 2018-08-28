@@ -1,204 +1,63 @@
 {
-    "response": {
-        "rss": {
-            "@xmlns:media": "https://search.yahoo.com/mrss/",
-            "@version": 2,
-            "channel": {
-                "title": "《雖已30但仍17》免費線上看 - LiTV",
-                "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00125333",
-                "description": null,
-                "language": "zh-Hant-TW",
-                "copyright": "Copyright © 2011 LiTV 替您錄科技股份有限公司",
-                "pubDate": "2018/08/27",
-                "ttl": 720,
-                "image": {
-                    "title": "《雖已30但仍17》免費線上看 - LiTV",
-                    "link": "https://www.litv.tv/vod/drama/content.do?id=VOD00125333",
-                    "url": "https://cdnstatic.svc.litv.tv/35933-000000-232087.jpg"
-                },
-                "item": [
-                    {
-                        "title": "第6集",
-                        "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125613",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:30",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125613"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000006-232093.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000006-232093.jpg"
-                        }
-                    },
-                    {
-                        "title": "第5集",
-                        "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125612",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:37",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125612"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000005-232092.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000005-232092.jpg"
-                        }
-                    },
-                    {
-                        "title": "第4集",
-                        "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125611",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "01:00:08",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125611"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000004-232091.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000004-232091.jpg"
-                        }
-                    },
-                    {
-                        "title": "第3集",
-                        "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125610",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125610"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000003-232090.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000003-232090.jpg"
-                        }
-                    },
-                    {
-                        "title": "第2集",
-                        "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125609",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:57",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125609"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000002-232089.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000002-232089.jpg"
-                        }
-                    },
-                    {
-                        "title": "第1集",
-                        "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
-                        "link": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125608",
-                        "pubDate": "2018/08/27",
-                        "video_duration": "59:56",
-                        "guid": {
-                            "@isPermaLink": false,
-                            "#text": "VOD00125608"
-                        },
-                        "media:content": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@type": "image/jpeg",
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000001-232088.jpg"
-                        },
-                        "media:text": {
-                            "@type": "html",
-                            "#text": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。"
-                        },
-                        "media:credit": {
-                            "@role": "publishing company",
-                            "#text": "LiTV 線上影視"
-                        },
-                        "media:thumbnail": {
-                            "@height": 122,
-                            "@width": 216,
-                            "@url": "https://cdnstatic.svc.litv.tv/35933-000001-232088.jpg"
-                        }
-                    }
-                ]
-            }
-        }
+  "@id": "35933",
+  "@type": "Movie",
+  "describedBy": [
+    {
+      "@id": "_:3c364b58-a8ec-46f8-bea8-6375d68e7f82",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第6集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125613"
+    },
+    {
+      "@id": "_:d25e5901-9c50-450b-8432-33b7f486a4b9",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第5集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125612"
+    },
+    {
+      "@id": "_:1bd1dd32-6a4e-4b20-a5a9-81f060375369",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第4集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125611"
+    },
+    {
+      "@id": "_:26e01d52-c032-4b00-9aa5-6be4751345ac",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第3集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125610"
+    },
+    {
+      "@id": "_:dcefe57b-9949-4c0e-bd20-e7852e040d7c",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第2集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125609"
+    },
+    {
+      "@id": "_:e59a736b-e6ab-43fb-ab26-aae271fdc42a",
+      "@type": "Description",
+      "dataSource": "2018/08/27",
+      "label": "第1集",
+      "series": "https://www.litv.tv/vod/drama/content.do?autoPlay=1&isUHEnabled=true&id=VOD00125608"
     }
+  ],
+  "description": "舞台設計師孔宇振，13年前的一場意外，讓他封閉了心靈，不與任何人和世界聯繫。禹瑞麗，前程似錦的小提琴演奏者，17歲時因為意外事故，陷入長期昏迷。年齡30歲、但是精神和肉體還停留在17歲的禹瑞麗，與誤以為自己害死了禹瑞麗的封閉孔宇振，兩人相遇後發生的搞笑療癒故事。",
+  "image": {
+    "@id": "_:35fbe6e1-8219-4d71-a3d1-91a374907720",
+    "@type": "Image",
+    "url": {
+      "@type": "URL",
+      "@value": "https://cdnstatic.svc.litv.tv/35933-000000-232087.jpg"
+    }
+  },
+  "label": "《雖已30但仍17》免費線上看 - LiTV",
+  "webpage": {
+    "@id": "_:0a1c97f6-fa52-4ead-b918-5c2573b89351",
+    "@type": "Webpage",
+    "label": "https://ys.svc.litv.tv/rss/LiTV_35933.rss"
+  }
 }
